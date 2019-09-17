@@ -6,9 +6,9 @@
 	<version>0.0.1-SNAPSHOT</version>
 
 	<properties>
-		<resteasy.version>3.0.11.Final</resteasy.version>
+		<resteasy.version>3.0.20.Final</resteasy.version>
 		<dagger.version>2.6</dagger.version>
-		<swagger.version>1.5.0</swagger.version>
+		<swagger.version>1.5.11</swagger.version>
 		<jetty.version>9.2.4.v20141103</jetty.version>
 	</properties>
 
